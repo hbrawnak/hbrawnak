@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a software engineer 👨‍💻 from Dhaka, Bangladesh 🇧🇩 with 4 years experience. I love to write code in **PHP, Node.js, Python** and as a backend enthusiast, I always practice **algorithm** and **cloud** based environment. I know the usage of SOLID principle and Design Pattern. I love to learn new and cutting edge technologies. And there’s one last thing, I believe in technics over magic.
+Experienced Full Stack Software Engineer specializing in JavaScript and PHP, passionate about creating user-friendly, easily-managed software. Skilled in PHP, JavaScript, Python, and various databases. Proficient in DevOps tools like Docker and AWS, with a focus on automation, scalability, and clean code practices. Enthusiastic about continuous learning and innovative projects.
