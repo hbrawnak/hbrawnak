@@ -1,3 +1,31 @@
 ### Hi there 👋
 
-Experienced Full Stack Software Engineer specializing in PHP, passionate about creating user-friendly, easily-managed software. Skilled in PHP, JavaScript, Python, and various databases. Proficient in DevOps tools like Docker, Kubernetes and AWS, with a focus on automation, scalability, and clean code practices. Enthusiastic about continuous learning and innovative projects.
+I'm **Md Habibur Rahman**, a passionate 💻 Full Stack Software Engineer with a deep focus on **PHP**, and growing expertise in **Python** and **Golang** 🐹. I love building **scalable**, **user-friendly**, and **easily-managed** software solutions that make a real impact.
+
+---
+
+💼 **Tech I'm Fluent In**  
+- 🛠️ PHP, Python, Golang
+- 🗃️ MySQL, PostgreSQL, Redis, Cassandra  
+- ☁️ AWS, GitHub Actions  
+- 📦 DevOps: Docker, Kubernetes, CI/CD, Terraform  
+- 📜 SOLID Principles, Design Patterns, Clean Architecture  
+
+---
+
+🚀 **What I'm Passionate About**  
+- Writing clean, maintainable, and scalable code ✨  
+- Architecting robust backend systems & microservices 🔧  
+- Automating DevOps workflows and infrastructure provisioning 🧰  
+- Exploring new technologies and contributing to innovative projects 🌱  
+
+---
+
+📫 **Let's Connect**  
+- 🌐 Website: [habib.im](https://habib.im)  
+- 💼 LinkedIn: [linkedin.com/in/hbrawnak](https://linkedin.com/in/hbrawnak)  
+- 💻 GitHub: [github.com/hbrawnak](https://github.com/hbrawnak)  
+
+---
+
+_“The difficult thing is to maintain courage when circumstances get difficult.”_
