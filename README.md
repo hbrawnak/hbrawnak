@@ -1,31 +1,19 @@
-### Hi there 👋
+## Hi, I'm Md Habibur Rahman
 
-I'm **Md Habibur Rahman**, a passionate 💻 Full Stack Software Engineer with a deep focus on **PHP**, and growing expertise in **Python** and **Golang** 🐹. I love building **scalable**, **user-friendly**, and **easily-managed** software solutions that make a real impact.
+I am a Senior Software Engineer from Dhaka with 9 years of experience in backend
+and cloud systems. I build distributed systems with Go, Python and Kubernetes.
 
----
+### Research
+I study how machine learning can help cloud systems scale in a smarter way.
+I am also interested in agentic AI for software engineering.
 
-💼 **Tech I'm Fluent In**  
-- 🛠️ PHP, Python, Golang
-- 🗃️ MySQL, PostgreSQL, Redis, Cassandra  
-- ☁️ AWS, GitHub Actions  
-- 📦 DevOps: Docker, Kubernetes, CI/CD, Terraform  
-- 📜 SOLID Principles, Design Patterns, Clean Architecture  
+* Predictive autoscaling in Kubernetes using LSTM (lead author, manuscript in preparation)
+* Flood mapping with Sentinel-1 SAR data (under review, RAAICON 2026)
 
----
+ORCID 0009-0001-3604-6102
 
-🚀 **What I'm Passionate About**  
-- Writing clean, maintainable, and scalable code ✨  
-- Architecting robust backend systems & microservices 🔧  
-- Automating DevOps workflows and infrastructure provisioning 🧰  
-- Exploring new technologies and contributing to innovative projects 🌱  
+### Tech
+Go, Python, PHP · Kubernetes, Docker, Terraform · AWS · PostgreSQL, Redis, Cassandra · RabbitMQ, gRPC
 
----
-
-📫 **Let's Connect**  
-- 🌐 Website: [habib.im](https://habib.im)  
-- 💼 LinkedIn: [linkedin.com/in/hbrawnak](https://linkedin.com/in/hbrawnak)  
-- 💻 GitHub: [github.com/hbrawnak](https://github.com/hbrawnak)  
-
----
-
-_“The difficult thing is to maintain courage when circumstances get difficult.”_
+### Contact
+habib.im · LinkedIn · hello@habib.im
