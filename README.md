@@ -1,19 +1,24 @@
 ## Hi, I'm Md Habibur Rahman
 
-I am a Senior Software Engineer from Dhaka with 9 years of experience in backend
-and cloud systems. I build distributed systems with Go, Python and Kubernetes.
+I am a Senior Software Engineer from Dhaka with 9 years of experience in backend and cloud systems. I build APIs and distributed systems with Python and Go, and I work on Kubernetes infrastructure. I am open to relocation.
+
+### Projects
+
+* **[PDF Gripper](https://pdfgripper.com)**: PDF processing service in Go with sandboxed workers, rate limiting, and fuzz tested parsers.
 
 ### Research
-I study how machine learning can help cloud systems scale in a smarter way.
-I am also interested in agentic AI for software engineering.
+
+I study how machine learning can help cloud systems scale in a smarter way. I am also interested in agentic AI for software engineering.
 
 * Predictive autoscaling in Kubernetes using LSTM (lead author, manuscript in preparation)
-* Flood mapping with Sentinel-1 SAR data (under review, RAAICON 2026)
+* Flood mapping with Sentinel-1 SAR data (co-author, under review, RAAICON 2026)
 
-ORCID 0009-0001-3604-6102
+ORCID: 0009-0001-3604-6102
 
 ### Tech
-Go, Python, PHP · Kubernetes, Docker, Terraform · AWS · PostgreSQL, Redis, Cassandra · RabbitMQ, gRPC
+
+Python, Go, PHP · FastAPI, Django, Laravel · Kubernetes, Docker, Helm · AWS · PostgreSQL, MariaDB, Redis, Cassandra, OpenSearch · RabbitMQ, gRPC
 
 ### Contact
-habib.im · LinkedIn · hello@habib.im
+
+[habib.im](https://habib.im) · [LinkedIn](https://linkedin.com/in/hbrawnak) · hello@habib.im
