@@ -1,6 +1,6 @@
 ## Hi, I'm Md Habibur Rahman
 
-I am a Senior Software Engineer from Dhaka with 9 years of experience in backend and cloud systems. I build APIs and distributed systems with Python and Go, and I work on Kubernetes infrastructure. I am open to relocation.
+I am a Senior Software Engineer from Dhaka with 9 years of experience in backend and cloud systems. I build APIs and distributed systems with Python and Go, and I work on Kubernetes infrastructure.
 
 ### Projects
 
@@ -17,7 +17,7 @@ ORCID: 0009-0001-3604-6102
 
 ### Tech
 
-Python, Go, PHP · FastAPI, Django, Laravel · Kubernetes, Docker, Helm · AWS · PostgreSQL, MariaDB, Redis, Cassandra, OpenSearch · RabbitMQ, gRPC
+Python, Go, PHP · FastAPI, Django, Laravel · Kubernetes, Docker · AWS · PostgreSQL, MariaDB, Redis, Cassandra, OpenSearch · RabbitMQ, gRPC
 
 ### Contact
 
